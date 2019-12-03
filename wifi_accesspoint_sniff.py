@@ -1,6 +1,6 @@
 #!Python3
 # coding=utf-8
-
+#Windowsにおいて、cmdでコマンドを実行して、接続中のBSSID（MAC）アドレスなどを取得するプログラム
 import subprocess
 
 
